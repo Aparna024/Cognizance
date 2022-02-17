@@ -1,0 +1,7 @@
+READ num
+a=num/3
+b=num-(a*3)
+IF b is equal to 0
+  print True
+ELSE
+  print False
