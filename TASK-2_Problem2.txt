@@ -1,8 +1,0 @@
-READ num
-a=1
-b=1
-FOR count = 2 to num
-  c=a+b
-  a=b
-  b=c
-print b
